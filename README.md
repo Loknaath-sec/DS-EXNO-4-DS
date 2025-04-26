@@ -28,4 +28,4 @@ The feature selection techniques used are:
 # CODING AND OUTPUT:
        # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
 # RESULT:
-
+Thus, Feature selection and Feature scaling has been used on the given dataset.
