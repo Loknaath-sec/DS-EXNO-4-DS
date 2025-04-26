@@ -26,6 +26,6 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
 # RESULT:
 Thus, Feature selection and Feature scaling has been used on the given dataset.
