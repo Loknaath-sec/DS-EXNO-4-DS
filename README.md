@@ -1,4 +1,6 @@
 # EXNO:4-DS
+## Name: LOKNAATH P
+## Register NO: 212223240080
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
